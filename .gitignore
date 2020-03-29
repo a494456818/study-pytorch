@@ -10,3 +10,8 @@
 .idea/
 .out/
 *.kotlin_module
+
+##########################
+# Jupyter notebook Ignore files #
+##########################
+.ipynb_checkpoints/
